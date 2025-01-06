@@ -23,3 +23,5 @@
 	defaultbranch = main
 [core]
 	editor = nvim -f
+[rerere]
+	enabled = true
