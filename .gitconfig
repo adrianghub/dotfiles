@@ -25,3 +25,5 @@
 	editor = nvim -f
 [rerere]
 	enabled = true
+[pull]
+	rebase = false
